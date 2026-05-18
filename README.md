@@ -30,3 +30,12 @@ This project demonstrates structured project management using GitHub issues.
 2. Track progress using GitHub Issues
 3. Update documentation
 4. Complete validation steps
+# OctoAcme Project Management Process Summary
+
+OctoAcme follows a structured and documentation-driven project management approach designed to improve collaboration and transparency. Work is organized into GitHub Issues, where each issue represents a clear task that can be tracked and completed.
+
+The project is divided into phases such as planning, setup, documentation, implementation, and validation. This phased approach ensures that development progresses in a controlled and organized way, with clear milestones and expectations at each stage.
+
+Communication happens mainly through GitHub Issues and pull requests. Team members use these tools to discuss tasks, review changes, and maintain visibility of progress. This ensures that all updates are recorded and accessible to everyone involved in the project.
+
+Quality assurance is maintained through review processes before merging any changes. Each update is checked against requirements to ensure consistency, correctness, and completeness before being added to the main branch.
