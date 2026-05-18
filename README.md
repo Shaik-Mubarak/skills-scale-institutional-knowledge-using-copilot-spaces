@@ -33,7 +33,15 @@ This project demonstrates structured project management using GitHub issues.
 # OctoAcme Project Management Process Summary
 
 OctoAcme follows a structured and documentation-driven project management approach designed to improve collaboration and transparency. Work is organized into GitHub Issues, where each issue represents a clear task that can be tracked and completed.
+# OctoAcme Project Management Process Summary
 
+OctoAcme follows a structured and documentation-driven project management approach designed to improve collaboration, consistency, and transparency across teams. The process begins with clearly defining project requirements and organizing them into structured GitHub issues. Each issue represents a specific task, making it easier to track progress and assign responsibilities.
+
+The workflow emphasizes phase-based execution, where work is divided into structured stages such as planning, setup, documentation, implementation, and validation. This ensures that every step of the project lifecycle is traceable and aligned with overall goals. Documentation stored in the repository acts as the central source of truth for all project-related knowledge.
+
+Communication within OctoAcme is primarily managed through GitHub Issues and pull requests. This allows team members to discuss tasks, share updates, and review changes in a transparent manner. Each update is documented to ensure that knowledge is not lost and can be accessed by any contributor.
+
+Quality assurance is integrated into the workflow through structured review processes and validation steps. Every change must be reviewed and approved before merging, ensuring that the project maintains high standards and remains consistent with defined requirements.
 The project is divided into phases such as planning, setup, documentation, implementation, and validation. This phased approach ensures that development progresses in a controlled and organized way, with clear milestones and expectations at each stage.
 
 Communication happens mainly through GitHub Issues and pull requests. Team members use these tools to discuss tasks, review changes, and maintain visibility of progress. This ensures that all updates are recorded and accessible to everyone involved in the project.
