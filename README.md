@@ -52,3 +52,4 @@ See: docs/octoacme-project-management-summary.md
 
 OctoAcme uses issue-based tracking, structured phases, and review-based QA to manage work efficiently.
 <!-- OctoAcme documentation update -->
+Update for project management exercise
