@@ -230,3 +230,4 @@ Stakeholder Representatives serve as the voice of business and customer interest
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Consider role interactions when designing workflows and communication patterns.
+Step 3 validation trigger: personas updated via Copilot workflow
