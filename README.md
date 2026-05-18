@@ -14,3 +14,19 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+# Project Management Summary
+
+## Overview
+This project demonstrates structured project management using GitHub issues.
+
+## Key Processes
+- Requirement definition
+- Task tracking using issues
+- Documentation-based workflow
+- Structured execution phases
+
+## Workflow
+1. Define tasks in issues
+2. Track progress using GitHub Issues
+3. Update documentation
+4. Complete validation steps
