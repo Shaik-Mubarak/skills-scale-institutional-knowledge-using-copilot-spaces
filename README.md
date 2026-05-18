@@ -51,3 +51,4 @@ Quality assurance is maintained through review processes before merging any chan
 See: docs/octoacme-project-management-summary.md
 
 OctoAcme uses issue-based tracking, structured phases, and review-based QA to manage work efficiently.
+<!-- OctoAcme documentation update -->
