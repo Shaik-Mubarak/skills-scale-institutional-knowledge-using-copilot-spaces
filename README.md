@@ -47,3 +47,7 @@ The project is divided into phases such as planning, setup, documentation, imple
 Communication happens mainly through GitHub Issues and pull requests. Team members use these tools to discuss tasks, review changes, and maintain visibility of progress. This ensures that all updates are recorded and accessible to everyone involved in the project.
 
 Quality assurance is maintained through review processes before merging any changes. Each update is checked against requirements to ensure consistency, correctness, and completeness before being added to the main branch.
+## Project Management Summary
+See: docs/octoacme-project-management-summary.md
+
+OctoAcme uses issue-based tracking, structured phases, and review-based QA to manage work efficiently.
